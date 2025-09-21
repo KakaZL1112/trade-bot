@@ -1,6 +1,6 @@
 import sys
 from PyQt5.QtWidgets import QApplication
-from binance_api import BinanceAPI
+from .bian_api import BinanceAPI
 from ui_main import MainWindow
 
 # 填入你的API KEY
