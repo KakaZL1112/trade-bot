@@ -1,0 +1,5 @@
+python-binance      # 币安官方API库
+PyQt5              # 桌面UI
+numpy              # 量化计算及策略支持
+pandas             # 数据处理（可选，推荐）
+requests           # 网络请求（可选，用于拉取行情等）
